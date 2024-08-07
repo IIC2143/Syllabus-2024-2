@@ -32,7 +32,7 @@ Tambien contamos con un repositorio dedicado a lo que es el _SetUp_ del curso, e
 | Maria Esperanza Acevedo | esperanza.acevedo@uc.cl | [@esperanzaacevedo](https://github.com/esperanzaacevedo) |
 | Constanza Huerta | constanzamalia@uc.cl | [@ConiiiH](https://github.com/ConiiiH) |
 | Noam Tanaka | noam.vieira@uc.cl | [@noamsito](https://github.com/noamsito) |
-| Martin Orrego | martinorregosilva@uc.cl| [@aOrregoSilva](https://github.com/OrregoSilva) |
+| Martin Orrego | martinorregosilva@uc.cl| [@OrregoSilva](https://github.com/OrregoSilva) |
 | Jorge De Goyeneche | jorgedg611@uc.cl | [@jorgedg6](https://github.com/jorgedg6) |
 | Daniel Larco | dlarco@uc.cl | [@danilarco](https://github.com/danilarco) |
 | Pablo Bustos | pablo.bustos@uc.cl | [@pablobustose](https://github.com/pablobustose) |
